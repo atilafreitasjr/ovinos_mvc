@@ -23,3 +23,10 @@ $ git config --global user.email "atilafreitasjr@gmail.com"
 
 Usuario@Usuario-PC MINGW32 ~
 $ git config --global color.ui true
+
+# Criando repositório
+
+Usuario@Usuario-PC MINGW32 /d/aulagit
+$ git init
+Initialized empty Git repository in D:/aulagit/.git/
+
