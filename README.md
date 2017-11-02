@@ -3,7 +3,9 @@
 ####################
 # ovinos_mvc
 
-estrutura de projeto em mvc - composer
+Abaixo, um relato rezumido do projeto e os passos para versionamento
+
+estrutura de projeto: mvc - composer
 
 Para fazer meu primeiro Push vou utilizar um projeto simples 
 que é a estrutura de um sistema web baseado no curso da code 
